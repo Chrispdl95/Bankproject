@@ -34,6 +34,5 @@ Based on the results on the test data, we will determine if any of the models sa
 Part B: Adjusted Training Set
 In this section, we will repeat the experiment with an adjusted training set. If the distribution of healthy firms to bankrupt firms in the original training set is greater than 3 to 1, we will randomly select healthy firms to balance the ratio to 3 healthy firms for every bankrupt firm.
 
-This repository was initially created to store my personal python codes but also be available to others trying to build or understand something similar. The codes contained in this repo are made specifically for a Machine Learning and Natural Language Processing course of my MSc program, as part of a data analysis and financial risk assessment project
 
-Please note that the data used in this repository belongs to their respective owners, and the repository's purpose is to showcase analytical skills and code implementation.
+
